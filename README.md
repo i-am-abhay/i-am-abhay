@@ -1,16 +1,29 @@
-## Hi there 👋
+# Abhay
 
-<!--
-**i-am-abhay/i-am-abhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫  WGHS
 
-Here are some ideas to get you started:
+Hey, I'm abhay!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in hardware and software, with a focus on electronics, PCB design, robotics, and building things from scratch.
+
+## Projects
+
+### Custom Mechanical Keyboard
+
+Designed a keyboard from the ground up, including the PCB, firmware, and CAD components.
+
+### RP2040 Macropad
+
+Built a programmable macropad featuring an OLED display, rotary encoder, and custom PCB.
+
+## Tools
+
+KiCad • Fusion 360 • Python • Git • RP2040
+
+## Currently Learning
+
+* Embedded Systems
+* Robotics
+* Product Development
+
+> Learn. Build. Improve.
