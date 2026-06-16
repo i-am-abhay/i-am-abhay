@@ -18,7 +18,7 @@ Built a programmable macropad featuring an OLED display, rotary encoder, and cus
 
 ## Tools
 
-KiCad • Fusion 360 • Python • Git • RP2040
+KiCad • Fusion 360 • Python • Git
 
 ## Currently Learning
 
