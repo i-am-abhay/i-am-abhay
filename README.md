@@ -4,7 +4,7 @@
 
 Hey, I'm abhay!
 
-I'm interested in hardware and software, with a focus on electronics, PCB design, robotics, and building things from scratch.
+I'm interested in hardware and software, with a focus on electronics, PCB design, robotics, and building things from the ground up.
 
 ## Projects
 
